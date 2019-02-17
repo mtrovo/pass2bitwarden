@@ -1,0 +1,6 @@
+[[constraint]]
+  name = "github.com/mkideal/cli"
+  branch = "master"
+[prune]
+  go-tests = true
+  unused-packages = true
